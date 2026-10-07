@@ -1,4 +1,4 @@
-## Hi there 👋
+## Разработчик 1С. В прошлом бухгалтер/консультант
 
 <!--
 **Anna-K-A/Anna-K-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
