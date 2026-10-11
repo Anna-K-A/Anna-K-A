@@ -10,7 +10,7 @@
  # Полезное
  - [Кейсы на языке программирования 1С](https://github.com/Anna-K-A/Developer1C)
  - [Интересные фишки 1С в пользовательском режиме (для аналитиков/консультантов)](https://github.com/Anna-K-A/Users1C)
- - [Полезности в Excel]
+ - [Полезности в Excel](https://github.com/Anna-K-A/Excel-A)
 
  # Стек
 ![1С:Предприятие](https://img.shields.io/badge/1С:Предприятие-EE2A23?style=for-the-badge&logoColor=white)
